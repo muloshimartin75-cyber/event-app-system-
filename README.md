@@ -12,6 +12,10 @@
 - Student ID:2410396
 - Course: Software Design
 - Date Submitted: 11/19/2025
+  - Name: Albert Kunda
+- Student ID:2420988
+- Course: Software Design
+- Date Submitted: 11/19/2025
 
    Student Details
 - Name: Albert Kunda
